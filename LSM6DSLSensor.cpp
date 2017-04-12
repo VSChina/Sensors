@@ -53,7 +53,7 @@
  */
 LSM6DSLSensor::LSM6DSLSensor(DevI2C &i2c, PinName int1_pin, PinName int2_pin) : _dev_i2c(i2c), _int1_irq(int1_pin), _int2_irq(int2_pin)
 {
-  _address = LSM6DSL_ACC_GYRO_I2C_ADDRESS_HIGH; 
+  _address = LSM6DSL_ACC_GYRO_I2C_ADDRESS_LOW; 
 };
 
 /** Constructor
