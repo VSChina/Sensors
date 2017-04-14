@@ -18,34 +18,29 @@ LPS25H	KEYWORD1	LPS25H
 enable_x	KEYWORD2
 get_x_axes	KEYWORD2
 get_g_axes	KEYWORD2
-write	KEYWORD2
-available	KEYWORD2
-config	KEYWORD2
-setDNS	KEYWORD2
-read	KEYWORD2
-flush	KEYWORD2
-stop	KEYWORD2
-connected	KEYWORD2
-begin	KEYWORD2
-disconnect	KEYWORD2
-macAddress	KEYWORD2
-localIP	KEYWORD2
-subnetMask	KEYWORD2
-gatewayIP	KEYWORD2
-SSID	KEYWORD2
-BSSID		KEYWORD2
-RSSI	KEYWORD2
-encryptionType	KEYWORD2
-getResult	KEYWORD2
-getSocket	KEYWORD2
-WiFiClient	KEYWORD2	WiFiClient
-WiFiServer	KEYWORD2	WiFiServer
-WiFiUDP		KEYWORD2	WiFiUDPConstructor
-beginPacket	KEYWORD2
-endPacket	KEYWORD2
-parsePacket	KEYWORD2
-remoteIP	KEYWORD2
-remotePort	KEYWORD2
+get_x_sensitivity	KEYWORD2
+get_g_sensitivity	KEYWORD2
+get_x_axes_raw	KEYWORD2
+get_g_axes_raw	KEYWORD2
+get_x_odr	KEYWORD2
+get_g_odr	KEYWORD2
+get_x_fs	KEYWORD2
+get_g_fs	KEYWORD2
+set_g_odr	KEYWORD2
+set_x_odr	KEYWORD2
+set_x_fs	KEYWORD2
+set_g_fs	KEYWORD2
+get_m_axes	KEYWORD2 LIS2MDL
+get_m_axes_raw	KEYWORD2 LIS2MDL
+init	KEYWORD2 LIS2MDL
+PowerOff		KEYWORD2 LIS2MDL
+read_id	KEYWORD2 LPS25H
+Reset	KEYWORD2 LPS25H
+get_pressure	KEYWORD2 LPS25H
+get_temperature	KEYWORD2 LPS25H
+init	KEYWORD2	HTS221Sensor
+get_humidity	KEYWORD2	HTS221Sensor
+get_temperature		KEYWORD2	HTS221Sensor
 
 
 #######################################
