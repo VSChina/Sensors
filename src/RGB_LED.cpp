@@ -14,6 +14,6 @@ void RGB_LED::setColor(uint8_t red, uint8_t green, uint8_t blue) {
     _blue.write(blue / 255.0f);
 }
 
-void RGB_LED::TurnOff() {
+void RGB_LED::turnOff() {
     setColor(0, 0, 0);
 }
