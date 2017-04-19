@@ -5,7 +5,7 @@ RGB_LED::RGB_LED(PinName red, PinName green, PinName blue) : _red(red), _green(g
     _red.period(0.001);
     _green.period(0.001);
     _blue.period(0.001);
-    TurnOff();
+    turnOff();
 }
 
 void RGB_LED::setColor(uint8_t red, uint8_t green, uint8_t blue) {
