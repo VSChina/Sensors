@@ -45,10 +45,10 @@
 
 /* Includes ------------------------------------------------------------------*/
 
-#include "ST_INTERFACES\DevI2C.h"
-#include "utility\LSM6DSL_acc_gyro_driver.h"
-#include "ST_INTERFACES\MotionSensor.h"
-#include "ST_INTERFACES\GyroSensor.h"
+#include "ST_INTERFACES/DevI2C.h"
+#include "utility/LSM6DSL_acc_gyro_driver.h"
+#include "ST_INTERFACES/MotionSensor.h"
+#include "ST_INTERFACES/GyroSensor.h"
 
 /* Defines -------------------------------------------------------------------*/
 

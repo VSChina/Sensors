@@ -45,7 +45,7 @@ extern "C" {
 #endif
 
 /* Includes ------------------------------------------------------------------*/
-#include "..\ST_INTERFACES\pressure.h"
+#include "../ST_INTERFACES/pressure.h"
 
 /** @addtogroup BSP
  * @{

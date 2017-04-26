@@ -40,9 +40,9 @@
 /* Includes ------------------------------------------------------------------*/
 
 #include "mbed.h"
-#include "ST_INTERFACES\DevI2C.h"
+#include "ST_INTERFACES/DevI2C.h"
 #include "LSM6DSLSensor.h"
-#include "utility\LSM6DSL_acc_gyro_driver.h"
+#include "utility/LSM6DSL_acc_gyro_driver.h"
 
 
 /* Class Implementation ------------------------------------------------------*/

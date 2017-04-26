@@ -44,10 +44,10 @@
 
 /* Includes ------------------------------------------------------------------*/
 
-#include "ST_INTERFACES\DevI2C.h"
-#include "utility\HTS221_driver.h"
-#include "ST_INTERFACES\HumiditySensor.h"
-#include "ST_INTERFACES\TempSensor.h"
+#include "ST_INTERFACES/DevI2C.h"
+#include "utility/HTS221_driver.h"
+#include "ST_INTERFACES/HumiditySensor.h"
+#include "ST_INTERFACES/TempSensor.h"
 
 
 /* Class Declaration ---------------------------------------------------------*/

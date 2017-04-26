@@ -40,10 +40,10 @@
 
 /* Includes ------------------------------------------------------------------*/
 #include "mbed.h"
-#include "ST_INTERFACES\DevI2C.h"
-#include "utility\lps25h.h"
-#include "ST_INTERFACES\PressureSensor.h"
-#include "ST_INTERFACES\TempSensor.h"
+#include "ST_INTERFACES/DevI2C.h"
+#include "utility/lps25h.h"
+#include "ST_INTERFACES/PressureSensor.h"
+#include "ST_INTERFACES/TempSensor.h"
 
 /* Classes -------------------------------------------------------------------*/
 /** Class representing a LPS25H sensor component

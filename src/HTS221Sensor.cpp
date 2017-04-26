@@ -39,9 +39,9 @@
 /* Includes ------------------------------------------------------------------*/
 
 #include "mbed.h"
-#include "ST_INTERFACES\DevI2C.h"
+#include "ST_INTERFACES/DevI2C.h"
 #include "HTS221Sensor.h"
-#include "utility\HTS221_driver.h"
+#include "utility/HTS221_driver.h"
 
 
 /* Class Implementation ------------------------------------------------------*/

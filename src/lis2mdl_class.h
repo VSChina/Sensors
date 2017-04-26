@@ -40,9 +40,9 @@
 
 /* Includes ------------------------------------------------------------------*/
 #include "mbed.h"
-#include "ST_INTERFACES\DevI2C.h"
-#include "utility\lis2mdl.h"
-#include "ST_INTERFACES\MagneticSensor.h"
+#include "ST_INTERFACES/DevI2C.h"
+#include "utility/lis2mdl.h"
+#include "ST_INTERFACES/MagneticSensor.h"
 
 /* Classes -------------------------------------------------------------------*/
 /** Class representing a LIS2MDL sensor component

@@ -37,7 +37,7 @@
 
 /* Includes ------------------------------------------------------------------*/
 #include "lis2mdl_class.h"
-#include "utility\lis2mdl.h"
+#include "utility/lis2mdl.h"
 
 /**
  * @brief  Set LIS2MDL Initialization

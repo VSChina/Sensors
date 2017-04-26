@@ -37,7 +37,7 @@
 
 /* Includes ------------------------------------------------------------------*/
 #include "lps25h_class.h"
-#include "utility\lps25h.h"
+#include "utility/lps25h.h"
 
 /* Methods -------------------------------------------------------------------*/
 /* betzw - based on:
